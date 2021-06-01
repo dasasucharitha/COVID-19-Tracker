@@ -18,3 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # COVID-19-Tracker
+# Track-COVID-19
